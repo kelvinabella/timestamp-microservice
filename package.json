@@ -2,8 +2,8 @@
   "name": "timestamp-microservice",
   "version": "1.0.0",
   "description": "freecodecamp api project for timestamp microservice",
-  "main": "index.js",
-  "repository": "https://github.com/kelvinabella/FreeCodeCamp",
+  "main": "app.js",
+  "repository": "https://github.com/kelvinabella/timestamp-microservice",
   "author": "Kelvin Abella",
   "license": "MIT",
   "scripts": {
