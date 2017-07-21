@@ -1,4 +1,4 @@
-# Timestamp Microservice freeCodeCamp
+# Timestamp Microservice
 
 Full stack JavaScript service that checks whether a string contains either a unix timestamp or a natural language date. A [FreeCodeCamp](https://www.freecodecamp.org/challenges/timestamp-microservice) project.
 
