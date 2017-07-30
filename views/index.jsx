@@ -17,8 +17,8 @@ class Index extends React.Component {
             <ul>3) If it does not contain a date or Unix timestamp, it returns null for those properties.</ul>
           </blockquote>
           <h3>Example usage:</h3>
-          <code>https://localhost/December%2015,%202015</code><br />
-          <code>https://localhost/1450137600</code>
+          <code>http://localhost:3000/December%2015,%202015</code><br />
+          <code>http://localhost:3000/1450137600</code>
           <h3>Example output:</h3>
           <code>
             {'{ "unix": 1450137600, "natural": "December 15, 2015" }'}
