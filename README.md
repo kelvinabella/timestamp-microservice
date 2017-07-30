@@ -26,8 +26,8 @@ User Stories:
 
 ```
 Usage:
-https://localhost/December%2015,%202015
-https://localhost/1450137600
+https://localhost:3000/December%2015,%202015
+https://localhost:3000/1450137600
 
 Example output:
 { "unix": 1450137600, "natural": "December 15, 2015" }
